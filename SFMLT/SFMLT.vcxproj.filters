@@ -18,5 +18,13 @@
     <ClCompile Include="SFMLT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Animetion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animetion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

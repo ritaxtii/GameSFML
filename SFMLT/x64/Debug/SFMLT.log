@@ -1,2 +1,16 @@
-﻿  SFMLT.cpp
-  SFMLT.vcxproj -> C:\code\SFMLT\x64\Debug\SFMLT.exe
+﻿  Animetion.cpp
+C:\code\SFMLT\SFMLT\Animetion.cpp(9,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\code\SFMLT\SFMLT\Animetion.cpp(10,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  SFMLT.cpp
+C:\code\SFMLT\SFMLT\SFMLT.cpp(78,42): error C2660: 'Animetion::Update': function does not take 2 arguments
+C:\code\SFMLT\SFMLT\Animetion.h(9,7): message : see declaration of 'Animetion::Update'
+C:\code\SFMLT\SFMLT\SFMLT.cpp(6): fatal error C1075: '{': no matching token found
+  Generating Code...

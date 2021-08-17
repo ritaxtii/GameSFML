@@ -145,7 +145,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animetion.cpp" />
     <ClCompile Include="SFMLT.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animetion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
